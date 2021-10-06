@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Móviles/Firebase_Conexion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Móviles/adivina" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Móviles/adivina/Adivina-Adivinador" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Móviles/adivina/Chat-Socket.IO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Móviles/adivina/ChatSocket.IO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Móviles/adivina/desktop-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Web/Bienvenida" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Web/SkySoftNet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Aplicaciones Web/Socket" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Array" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Base_de_Datos_Orientada_a_Objetos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Consultas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Ejercicio_Programacion_Visual" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Factorial_Recursivo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Java_Web" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Juego_De_Loteria" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Nueva carpeta (2)/Ejercicio_Programacion_Visual" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/Reproductor_MP3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetBeansProjects/bdEjercicio1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/contactos" vcs="Git" />
+  </component>
+</project>
